@@ -7,4 +7,4 @@
 * ./build.sh
 * ./run.sh
 * cd ambari
-* ../build-ambari.sh
+* ../build-ambari.sh (took 53min to build on my pc, so slow...)
